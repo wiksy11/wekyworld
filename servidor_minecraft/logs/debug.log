@@ -20604,3 +20604,140 @@ Caused by: java.io.FileNotFoundException: https://raw.githubusercontent.com/gott
 
 [04:06:21] [Server thread/DEBUG] [FML]: The world 77ce64d (world) may have leaked: seen 120 times.
 
+[04:06:36] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:07:11] [Server thread/DEBUG] [FML]: The world 408702b4 (world) may have leaked: seen 125 times.
+
+[04:07:11] [Server thread/DEBUG] [FML]: The world 4a884902 (world) may have leaked: seen 125 times.
+
+[04:07:11] [Server thread/DEBUG] [FML]: The world 77ce64d (world) may have leaked: seen 125 times.
+
+[04:07:21] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:07:33] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [NJE] Spawning merchant at BlockPos{x=170, y=75, z=246}
+[04:07:41] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [NJE] Spawning Nomad at BlockPos{x=155, y=80, z=244}
+[04:07:41] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [NJE] Spawning Nomad at BlockPos{x=155, y=80, z=244}
+[04:08:01] [Server thread/DEBUG] [FML]: The world 408702b4 (world) may have leaked: seen 130 times.
+
+[04:08:01] [Server thread/DEBUG] [FML]: The world 4a884902 (world) may have leaked: seen 130 times.
+
+[04:08:01] [Server thread/DEBUG] [FML]: The world 77ce64d (world) may have leaked: seen 130 times.
+
+[04:08:06] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:08:51] [Server thread/DEBUG] [FML]: The world 408702b4 (world) may have leaked: seen 135 times.
+
+[04:08:51] [Server thread/DEBUG] [FML]: The world 4a884902 (world) may have leaked: seen 135 times.
+
+[04:08:51] [Server thread/DEBUG] [FML]: The world 77ce64d (world) may have leaked: seen 135 times.
+
+[04:08:51] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:09:36] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:09:41] [Server thread/DEBUG] [FML]: The world 408702b4 (world) may have leaked: seen 140 times.
+
+[04:09:41] [Server thread/DEBUG] [FML]: The world 4a884902 (world) may have leaked: seen 140 times.
+
+[04:09:41] [Server thread/DEBUG] [FML]: The world 77ce64d (world) may have leaked: seen 140 times.
+
+[04:10:21] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:10:31] [Server thread/DEBUG] [FML]: The world 408702b4 (world) may have leaked: seen 145 times.
+
+[04:10:31] [Server thread/DEBUG] [FML]: The world 4a884902 (world) may have leaked: seen 145 times.
+
+[04:10:31] [Server thread/DEBUG] [FML]: The world 77ce64d (world) may have leaked: seen 145 times.
+
+[04:11:06] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:11:21] [Server thread/DEBUG] [FML]: The world 408702b4 (world) may have leaked: seen 150 times.
+
+[04:11:21] [Server thread/DEBUG] [FML]: The world 4a884902 (world) may have leaked: seen 150 times.
+
+[04:11:21] [Server thread/DEBUG] [FML]: The world 77ce64d (world) may have leaked: seen 150 times.
+
+[04:11:51] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:12:11] [Server thread/DEBUG] [FML]: The world 408702b4 (world) may have leaked: seen 155 times.
+
+[04:12:11] [Server thread/DEBUG] [FML]: The world 4a884902 (world) may have leaked: seen 155 times.
+
+[04:12:11] [Server thread/DEBUG] [FML]: The world 77ce64d (world) may have leaked: seen 155 times.
+
+[04:12:36] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:13:01] [Server thread/DEBUG] [FML]: The world 408702b4 (world) may have leaked: seen 160 times.
+
+[04:13:01] [Server thread/DEBUG] [FML]: The world 4a884902 (world) may have leaked: seen 160 times.
+
+[04:13:01] [Server thread/DEBUG] [FML]: The world 77ce64d (world) may have leaked: seen 160 times.
+
+[04:13:16] [Server thread/TRACE] [FML]: Handshake channel activating
+[04:13:16] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[04:13:16] [Server thread/DEBUG] [FML]:   Next: HELLO
+[04:13:16] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[04:13:16] [Netty Epoll Server IO #0/INFO] [FML]: Client protocol version 2
+[04:13:16] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $ModList:172 mods->FMLHandshakeServerState$2:HELLO
+[04:13:16] [Netty Epoll Server IO #0/INFO] [FML]: Client attempting to join with 172 mods : wolfarmor@2.2.3.6,mclib@1.0.4,cannibalism@5.6.3,astralsorcery@1.10.20,zawa@1.12.2-2.0.35,creativecoredummy@1.0.0,mobdismemberment@7.0.0,dynamiclights_floodlights@1.0.3,malisisswitches@1.12.2-5.1.0,casinocraft@v06,dynamiclights@1.4.9,craftstudioapi@1.0.0,strawgolem@1.3,ctm@MC1.12.2-1.0.1.30,cookingforblockheads@6.4.71,placebo@1.6.0,reauth@3.6.0,playerskins@1.0.4,futuremccore@0.1.12,fencejumper@1.0.5,bookshelf@2.3.590,forgelin@1.8.4,microblockcbe@2.6.2.83,llibrary@1.7.19,malisisblocks@1.12.2-6.1.0,minecraftfuture@0.1.13,progressivebosses@1.5.4,waddles@0.6.0,morpheus@1.12.2-3.5.106,dynamiclights_otherplayers@1.0.9,foamflower@1.12.2-1.0.0.0-beta1,ftblib@5.4.4.5,waila@1.8.26,props@2.6.3,waterstrainer@3.2.0,emoticons@0.4.3,jeresources@0.9.2.60,mcjtylib_ng@3.5.4,mcmultipart@2.5.3,fbp@2.4.1,dragonmounts@1.12.2-1.6.3,mysticallib@1.12.2-1.4.0,malisisdoors@1.12.2-7.3.0,charset@0.5.6.4,malisiscore@1.12.2-6.5.1-SNAPSHOT,torchmaster@1.8.1.81,ptrmodellib@1.0.4,ambientsounds@3.0,crafttweakerjei@2.0.3,openterraingenerator@v8.3,blur@1.0.4-14,treasure2@1.7.0,dynamiclights_mobequipment@1.1.0,fairylights@2.1.9,eyesinthedarkness@0.1.0,resourceloader@1.5.3,littletilescore@1.0.0,generaldisasters@1.0,projectred-core@4.9.4.120,tektopia@1.1.0,matteroverdrive@0.7.0.0,mapgadgets@@VERSION@,camera@1.0.9,otgcore@1.12.2 - v8.3,projectred-transmission@4.9.4.120,elevatorid@1.3.14,leatherworks@1.78.0,FML@8.0.99.99,gottschcore@1.9.0,tombstone@3.6.4,customnpcs@1.12,projectred-integration@4.9.4.120,norecipebook@1.2.1,cfm@6.3.1,forgemultipartcbe@2.6.2.83,aperture@1.3.2,dynamiclights_creepers@1.0.6,worldcontrol@1.0.31,dttraverse@1.5,codechickenlib@3.2.3.358,malisisadvert@1.12.2-6.1.0,dynamictrees@1.12.2-0.9.6,playerrevive@1.0,netherex@2.0.15,movillages@1.5.4,magneticraft@2.7.0,ctgui@1.0.0,mowziesmobs@1.5.4,extendedrenderer@v1.0,advanced-fishing@1.3.3,mca@6.1.0,configmod@v1.0,jei@4.15.0.293,dynamiclights_theplayer@1.1.3,emberroot@1.3.9,custommainmenu@2.0.9,nightmares@1.0.4,reap@1.5.3,wawla@2.5.273,mcp@9.42,clumps@3.1.2,journeymap@1.12.2-5.5.6,comforts@1.4.1.2,naturescompass@1.5.1,tumbleweed@1.11-0.4.5,chameleon@1.12-4.1.3,harvestcraft@1.12.2zb,foamfixcore@7.7.4,vending@1.12.2-3.0.1.2,fossil@8.0.3,iceandfire@1.8.3,discordrp@1.2.19,toastcontrol@1.8.1,ichunutil@7.2.2,traverse@1.6.0,crafttweaker@4.1.20,forge@14.23.5.2847,explorercraft@2.2.8,ftbutilities@5.4.0.121,jjmeteor@1.0.7,trotuman@ATv45,chococraft@0.9.8.0,chesttransporter@2.8.8,infernalmobs@1.7.6,variedcommodities@1.12.2,ferdinandsflowers@1.10.4.1,minecraft@1.12.2,dynamiclights_entityclasses@1.0.1,toolbelt@1.9.12,baubles@1.5.2,roost@2.0.10,stupidthings@1.1.5,creativecore@1.9.9,applecore@3.2.0,ding@1.0.2,dynamiclights_dropitems@1.1.0,rustic@1.1.2,dynamiclights_flamearrows@1.0.1,extrautils2@1.0,jeiintegration@1.5.1.36,of@0.13.1,bloodmoon@1.5.3,vanillafix@1.0.10-SNAPSHOT,spartanshields@1.5.4,thebetweenlands@3.5.4,ftbbackups@1.1.0.1,fastbench@1.7.3,securitycraft@v1.8.15,libraryex@1.0.12,storagedrawers@1.12.2-5.4.0,cactusmod@1.3.2,animalium@0.3.8,harvest@1.12-1.2.7-20,mrtjpcore@2.1.4.43,moarboats@4.1.2.1,railcraft@12.0.0,farfromhome@1.0,coroutil@1.12.1-1.2.32,opframe@1.4.0,appleskin@1.0.9,magma_monsters@0.3.0,chisel@MC1.12.2-1.0.1.44,minecraftmultipartcbe@2.6.2.83,recipehandler@0.13,foamfix@0.10.10-1.12.2,bookworm@1.12.2-2.5.1,dynamiclights_onfire@1.0.7,chiselsandbits@14.33,modernlamps@1.0.3,immcraft@1.6.0,littletiles@1.5.0,modelloader@1.1.7
+[04:13:16] [Netty Epoll Server IO #0/INFO] [journeymap]: CLIENT
+[04:13:16] [Netty Epoll Server IO #0/DEBUG] [FML]:   Next: WAITINGCACK
+[04:13:17] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[04:13:17] [Netty Epoll Server IO #0/DEBUG] [FML]:   Next: COMPLETE
+[04:13:17] [Netty Epoll Server IO #0/INFO] [CodeChickenLib-ConfigSync]: Skipping config sync, No mods have registered a syncable config.
+[04:13:21] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[04:13:21] [Netty Epoll Server IO #0/DEBUG] [FML]:   Next: DONE
+[04:13:21] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[04:13:21] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[04:13:21] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: salBvi[/127.106.213.118:52613] logged in with entity id 13766 at (-13.365304671251895, 64.0, 214.47214903516954)
+[04:13:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: salBvi joined the game
+[04:13:21] [Server thread/INFO] [Waila]: Player EntityPlayerMP['salBvi'/13766, l='world', x=-13.37, y=64.00, z=214.47] connected. Sending ping
+[04:13:21] [Server thread/INFO] [Astral Sorcery]: [Astral Sorcery] Waiting for server synchronization on login for salBvi...
+[04:13:21] [Server thread/INFO] [Astral Sorcery]: [Astral Sorcery] Synchronizing baseline information to salBvi
+[04:13:21] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[04:13:21] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [NJE] EntityLumberjack|Wilhelmina Rosemourne|555  was idle for 253 seconds.
+[04:13:21] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:13:22] [Server thread/DEBUG] [harvestcraft]: no fruit available for biome: minecraft:deep_ocean with rarity < 72.
+[04:13:22] [Server thread/DEBUG] [harvestcraft]: no fruit available for biome: minecraft:deep_ocean with rarity < 61.
+[04:13:22] [Server thread/DEBUG] [harvestcraft]: no fruit available for biome: minecraft:ocean with rarity < 46.
+[04:13:26] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [NJE] EntityNomad|Paige Voortham|13733  Attaching to village
+[04:13:26] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [NJE] EntityMerchant|Merchant|13744  Attaching to village
+[04:13:27] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [NJE] EntityNomad|Remora Voortham|13732  Attaching to village
+[04:13:28] [Server thread/DEBUG] [harvestcraft]: no fruit available for biome: minecraft:beaches with rarity < 40.
+[04:13:29] [Server thread/DEBUG] [harvestcraft]: no fruit available for biome: minecraft:ocean with rarity < 51.
+[04:13:31] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [NJE] EntityGuard|Sevenson Hartman|475  Attaching to village
+[04:13:35] [Netty Epoll Server IO #0/DEBUG] [extrautils2]: OTL: Decode Packet: com.rwtema.extrautils2.network.packets.PacketUseItemAlt
+[04:13:35] [Netty Epoll Server IO #0/DEBUG] [extrautils2]: OTL: Handle Packet: com.rwtema.extrautils2.network.packets.PacketUseItemAlt : SERVER
+[04:13:35] [Netty Epoll Server IO #0/DEBUG] [extrautils2]: OTL: Scheduling Packet: com.rwtema.extrautils2.network.packets.PacketUseItemAlt : SERVER
+[04:13:36] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: salBvi lost connection: Timed out
+[04:13:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: salBvi left the game
+[04:13:36] [Server thread/DEBUG] [harvestcraft]: no fruit available for biome: minecraft:ocean with rarity < 37.
+[04:13:39] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [NJE] EntityGuard|Sevenson Hartman|475  Melee Start @BlockPos{x=134, y=70, z=283}
+[04:13:41] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [NJE] EntityNomad|Remora Voortham|14240  Attaching to village
+[04:13:41] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [NJE] EntityMerchant|Merchant|14238  Attaching to village
+[04:13:43] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [NJE] Gor Soper [farmer] has taken 3.00 damage from Zombie
+[04:13:43] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [NJE] [Villager Damage] Gor Soper [farmer] has taken 3.00 damage from Zombie
+[04:13:45] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [NJE] EntityGuard|Sevenson Hartman|475  Melee End
+[04:13:48] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [NJE] EntityGuard|Albert Soberton|52  Melee Start @BlockPos{x=51, y=63, z=340}
+[04:13:48] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [NJE] EntityGuard|Sevenson Hartman|475  Melee Start @BlockPos{x=115, y=71, z=304}
+[04:13:49] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [NJE] EntityGuard|Bertram Zoan|556  Melee Start @BlockPos{x=129, y=74, z=275}
+[04:13:50] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [NJE] EntityFarmer|Xandrilla Gullscream|59  Skill Change - farmer --> 2
+[04:13:51] [Server thread/DEBUG] [FML]: The world 408702b4 (world) may have leaked: seen 165 times.
+
+[04:13:51] [Server thread/DEBUG] [FML]: The world 4a884902 (world) may have leaked: seen 165 times.
+
+[04:13:51] [Server thread/DEBUG] [FML]: The world 77ce64d (world) may have leaked: seen 165 times.
+
+[04:14:06] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:14:41] [Server thread/DEBUG] [FML]: The world 408702b4 (world) may have leaked: seen 170 times.
+
+[04:14:41] [Server thread/DEBUG] [FML]: The world 4a884902 (world) may have leaked: seen 170 times.
+
+[04:14:41] [Server thread/DEBUG] [FML]: The world 77ce64d (world) may have leaked: seen 170 times.
+
+[04:14:51] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:15:31] [Server thread/DEBUG] [FML]: The world 408702b4 (world) may have leaked: seen 175 times.
+
+[04:15:31] [Server thread/DEBUG] [FML]: The world 4a884902 (world) may have leaked: seen 175 times.
+
+[04:15:31] [Server thread/DEBUG] [FML]: The world 77ce64d (world) may have leaked: seen 175 times.
+
+[04:15:36] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:16:21] [Server thread/DEBUG] [FML]: The world 408702b4 (world) may have leaked: seen 180 times.
+
+[04:16:21] [Server thread/DEBUG] [FML]: The world 4a884902 (world) may have leaked: seen 180 times.
+
+[04:16:21] [Server thread/DEBUG] [FML]: The world 77ce64d (world) may have leaked: seen 180 times.
+
+[04:16:21] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
