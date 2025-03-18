@@ -1,87 +1,65 @@
 JVM info: Microsoft - 21.0.5 - 21.0.5+11-LTS
 java.net.preferIPv4Stack=true
-Current Time: 15/03/2025 03:30:25
-Host: files.minecraftforge.net [172.67.161.211, 104.21.58.163]
-Host: maven.minecraftforge.net [104.21.58.163, 172.67.161.211]
-Host: libraries.minecraft.net [13.107.246.41]
-Host: launchermeta.mojang.com [13.107.246.41]
-Host: piston-meta.mojang.com [13.107.246.41]
-Host: sessionserver.mojang.com [13.107.246.41]
-Host: authserver.mojang.com [Unknown]
-Target Directory: .
-Extracting main jar:
-  Extracted successfully
-Considering minecraft server jar
-  Downloading library from https://piston-data.mojang.com/v1/objects/886945bfb2b978778c3a0288fd7fab09d315b25f/server.jar
-    Download completed: Checksum validated.
-Downloading libraries
-Found 0 additional library directories
-Considering library net.minecraftforge:forge:1.12.2-14.23.5.2860
-  Extracting library from /maven/net/minecraftforge/forge/1.12.2-14.23.5.2860/forge-1.12.2-14.23.5.2860.jar
-    Extraction completed: Checksum validated.
-Considering library org.ow2.asm:asm-debug-all:5.2
-  Downloading library from https://maven.minecraftforge.net/org/ow2/asm/asm-debug-all/5.2/asm-debug-all-5.2.jar
-    Download completed: Checksum validated.
-Considering library net.minecraft:launchwrapper:1.12
-  Downloading library from https://libraries.minecraft.net/net/minecraft/launchwrapper/1.12/launchwrapper-1.12.jar
-    Download completed: Checksum validated.
-Considering library org.jline:jline:3.5.1
-  Downloading library from https://maven.minecraftforge.net/org/jline/jline/3.5.1/jline-3.5.1.jar
-    Download completed: Checksum validated.
-Considering library com.typesafe.akka:akka-actor_2.11:2.3.3
-  Downloading library from https://maven.minecraftforge.net/com/typesafe/akka/akka-actor_2.11/2.3.3/akka-actor_2.11-2.3.3.jar
-    Download completed: Checksum validated.
-Considering library com.typesafe:config:1.2.1
-  Downloading library from https://maven.minecraftforge.net/com/typesafe/config/1.2.1/config-1.2.1.jar
-    Download completed: Checksum validated.
-Considering library org.scala-lang:scala-actors-migration_2.11:1.1.0
-  Downloading library from https://maven.minecraftforge.net/org/scala-lang/scala-actors-migration_2.11/1.1.0/scala-actors-migration_2.11-1.1.0.jar
-    Download completed: Checksum validated.
-Considering library org.scala-lang:scala-compiler:2.11.1
-  Downloading library from https://maven.minecraftforge.net/org/scala-lang/scala-compiler/2.11.1/scala-compiler-2.11.1.jar
-    Download completed: Checksum validated.
-Considering library org.scala-lang.plugins:scala-continuations-library_2.11:1.0.2_mc
-  Downloading library from https://maven.minecraftforge.net/org/scala-lang/plugins/scala-continuations-library_2.11/1.0.2_mc/scala-continuations-library_2.11-1.0.2_mc.jar
-    Download completed: Checksum validated.
-Considering library org.scala-lang.plugins:scala-continuations-plugin_2.11.1:1.0.2_mc
-  Downloading library from https://maven.minecraftforge.net/org/scala-lang/plugins/scala-continuations-plugin_2.11.1/1.0.2_mc/scala-continuations-plugin_2.11.1-1.0.2_mc.jar
-    Download completed: Checksum validated.
-Considering library org.scala-lang:scala-library:2.11.1
-  Downloading library from https://maven.minecraftforge.net/org/scala-lang/scala-library/2.11.1/scala-library-2.11.1.jar
-    Download completed: Checksum validated.
-Considering library org.scala-lang:scala-parser-combinators_2.11:1.0.1
-  Downloading library from https://maven.minecraftforge.net/org/scala-lang/scala-parser-combinators_2.11/1.0.1/scala-parser-combinators_2.11-1.0.1.jar
-    Download completed: Checksum validated.
-Considering library org.scala-lang:scala-reflect:2.11.1
-  Downloading library from https://maven.minecraftforge.net/org/scala-lang/scala-reflect/2.11.1/scala-reflect-2.11.1.jar
-    Download completed: Checksum validated.
-Considering library org.scala-lang:scala-swing_2.11:1.0.1
-  Downloading library from https://maven.minecraftforge.net/org/scala-lang/scala-swing_2.11/1.0.1/scala-swing_2.11-1.0.1.jar
-    Download completed: Checksum validated.
-Considering library org.scala-lang:scala-xml_2.11:1.0.2
-  Downloading library from https://maven.minecraftforge.net/org/scala-lang/scala-xml_2.11/1.0.2/scala-xml_2.11-1.0.2.jar
-    Download completed: Checksum validated.
-Considering library lzma:lzma:0.0.1
-  Downloading library from https://libraries.minecraft.net/lzma/lzma/0.0.1/lzma-0.0.1.jar
-    Download completed: Checksum validated.
-Considering library java3d:vecmath:1.5.2
-  Downloading library from https://libraries.minecraft.net/java3d/vecmath/1.5.2/vecmath-1.5.2.jar
-    Download completed: Checksum validated.
-Considering library net.sf.trove4j:trove4j:3.0.3
-  Downloading library from https://libraries.minecraft.net/net/sf/trove4j/trove4j/3.0.3/trove4j-3.0.3.jar
-    Download completed: Checksum validated.
-Considering library org.apache.maven:maven-artifact:3.5.3
-  Downloading library from https://maven.minecraftforge.net/org/apache/maven/maven-artifact/3.5.3/maven-artifact-3.5.3.jar
-    Download completed: Checksum validated.
-Considering library net.sf.jopt-simple:jopt-simple:5.0.3
-  Downloading library from https://libraries.minecraft.net/net/sf/jopt-simple/jopt-simple/5.0.3/jopt-simple-5.0.3.jar
-    Download completed: Checksum validated.
-Considering library org.apache.logging.log4j:log4j-api:2.15.0
-  Downloading library from https://maven.minecraftforge.net/org/apache/logging/log4j/log4j-api/2.15.0/log4j-api-2.15.0.jar
-    Download completed: Checksum validated.
-Considering library org.apache.logging.log4j:log4j-core:2.15.0
-  Downloading library from https://maven.minecraftforge.net/org/apache/logging/log4j/log4j-core/2.15.0/log4j-core-2.15.0.jar
-    Download completed: Checksum validated.
-Building Processors
-The server installed successfully
+Found java version 21.0.5
+Installing server to current directory
+MESSAGE: Data kindly mirrored by CreeperHost at https://creeperhost.net/
+MESSAGE: Considering minecraft server jar
+MESSAGE: Downloading minecraft server version 1.7.10
+MESSAGE:   Downloading library from https://launcher.mojang.com/v1/objects/952438ac4e01b4d115c5fc38f891710c4941df29/server.jar
+MESSAGE:     Download completed: Checksum validated.
+MESSAGE: Considering library net.minecraftforge:forge:1.7.10-10.13.4.1614-1.7.10: Not Downloading {Wrong Side}
+MESSAGE: Considering library net.minecraft:launchwrapper:1.12
+MESSAGE: Downloading library net.minecraft:launchwrapper:1.12
+MESSAGE: Trying unpacked library net.minecraft:launchwrapper:1.12
+MESSAGE: Considering library org.ow2.asm:asm-all:5.0.3
+MESSAGE: Downloading library org.ow2.asm:asm-all:5.0.3
+MESSAGE: Trying unpacked library org.ow2.asm:asm-all:5.0.3
+MESSAGE: Considering library com.typesafe.akka:akka-actor_2.11:2.3.3
+MESSAGE: Downloading library com.typesafe.akka:akka-actor_2.11:2.3.3
+MESSAGE: Trying unpacked library com.typesafe.akka:akka-actor_2.11:2.3.3
+MESSAGE: Considering library com.typesafe:config:1.2.1
+MESSAGE: Downloading library com.typesafe:config:1.2.1
+MESSAGE: Trying unpacked library com.typesafe:config:1.2.1
+MESSAGE: Considering library org.scala-lang:scala-actors-migration_2.11:1.1.0
+MESSAGE: Downloading library org.scala-lang:scala-actors-migration_2.11:1.1.0
+MESSAGE: Trying unpacked library org.scala-lang:scala-actors-migration_2.11:1.1.0
+MESSAGE: Considering library org.scala-lang:scala-compiler:2.11.1
+MESSAGE: Downloading library org.scala-lang:scala-compiler:2.11.1
+MESSAGE: Trying unpacked library org.scala-lang:scala-compiler:2.11.1
+MESSAGE: Considering library org.scala-lang.plugins:scala-continuations-library_2.11:1.0.2
+MESSAGE: Downloading library org.scala-lang.plugins:scala-continuations-library_2.11:1.0.2
+MESSAGE: Trying unpacked library org.scala-lang.plugins:scala-continuations-library_2.11:1.0.2
+MESSAGE: Considering library org.scala-lang.plugins:scala-continuations-plugin_2.11.1:1.0.2
+MESSAGE: Downloading library org.scala-lang.plugins:scala-continuations-plugin_2.11.1:1.0.2
+MESSAGE: Trying unpacked library org.scala-lang.plugins:scala-continuations-plugin_2.11.1:1.0.2
+MESSAGE: Considering library org.scala-lang:scala-library:2.11.1
+MESSAGE: Downloading library org.scala-lang:scala-library:2.11.1
+MESSAGE: Trying unpacked library org.scala-lang:scala-library:2.11.1
+MESSAGE: Considering library org.scala-lang:scala-parser-combinators_2.11:1.0.1
+MESSAGE: Downloading library org.scala-lang:scala-parser-combinators_2.11:1.0.1
+MESSAGE: Trying unpacked library org.scala-lang:scala-parser-combinators_2.11:1.0.1
+MESSAGE: Considering library org.scala-lang:scala-reflect:2.11.1
+MESSAGE: Downloading library org.scala-lang:scala-reflect:2.11.1
+MESSAGE: Trying unpacked library org.scala-lang:scala-reflect:2.11.1
+MESSAGE: Considering library org.scala-lang:scala-swing_2.11:1.0.1
+MESSAGE: Downloading library org.scala-lang:scala-swing_2.11:1.0.1
+MESSAGE: Trying unpacked library org.scala-lang:scala-swing_2.11:1.0.1
+MESSAGE: Considering library org.scala-lang:scala-xml_2.11:1.0.2
+MESSAGE: Downloading library org.scala-lang:scala-xml_2.11:1.0.2
+MESSAGE: Trying unpacked library org.scala-lang:scala-xml_2.11:1.0.2
+MESSAGE: Considering library lzma:lzma:0.0.1
+MESSAGE: Downloading library lzma:lzma:0.0.1
+MESSAGE: Trying unpacked library lzma:lzma:0.0.1
+MESSAGE: Considering library net.sf.jopt-simple:jopt-simple:4.5
+MESSAGE: Downloading library net.sf.jopt-simple:jopt-simple:4.5
+MESSAGE: Trying unpacked library net.sf.jopt-simple:jopt-simple:4.5
+MESSAGE: Considering library com.google.guava:guava:17.0
+MESSAGE: Downloading library com.google.guava:guava:17.0
+MESSAGE: Trying unpacked library com.google.guava:guava:17.0
+MESSAGE: Considering library org.apache.commons:commons-lang3:3.3.2
+MESSAGE: Downloading library org.apache.commons:commons-lang3:3.3.2
+MESSAGE: Trying unpacked library org.apache.commons:commons-lang3:3.3.2
+Extracting: /forge-1.7.10-10.13.4.1614-1.7.10-universal.jar
+To:          /workspaces/wekyworld/servidor_minecraft/./forge-1.7.10-10.13.4.1614-1.7.10-universal.jar
+The server installed successfully, you should now be able to run the file forge-1.7.10-10.13.4.1614-1.7.10-universal.jar
 You can delete this installer file now if you wish
