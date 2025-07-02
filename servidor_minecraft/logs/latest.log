@@ -437,3 +437,6 @@
 [02Jul2025 22:30:52.534] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
 [02Jul2025 22:30:52.535] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
 [02Jul2025 22:34:16.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Foxer_nightmare has made the advancement [Sweet Dreams]
+[02Jul2025 22:44:32.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Foxer_nightmare has made the advancement [The Parrots and the Bats]
+[02Jul2025 22:45:59.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Foxer_nightmare has made the advancement [Stone Age]
+[02Jul2025 22:46:39.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Foxer_nightmare has made the advancement [Getting an Upgrade]
