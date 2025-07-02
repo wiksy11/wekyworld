@@ -9,34 +9,34 @@
       "active": true,
       "alloc": {
         "data": {
-          "assigned_domain": "lyrics-odd.gl.joinmc.link",
-          "assigned_srv": "lyrics-odd.gl.joinmc.link",
+          "assigned_domain": "articles-although.gl.joinmc.link",
+          "assigned_srv": "articles-although.gl.joinmc.link",
           "assignment": {
             "type": "shared-ip"
           },
-          "id": "3da0f286-a298-4dc6-918f-9045b27c880c",
-          "ip_hostname": "26.ip.gl.ply.gg",
+          "id": "e0e3a3b7-1fd3-4f88-9168-3d1b7fb73558",
+          "ip_hostname": "29.ip.gl.ply.gg",
           "ip_type": "both",
-          "port_end": 60496,
-          "port_start": 60495,
+          "port_end": 58835,
+          "port_start": 58834,
           "region": "global",
-          "static_ip4": "147.185.221.26",
-          "static_ip6": "2602:fbaf:0:1::1a",
-          "tunnel_ip": "2602:fbaf:0:1::1a"
+          "static_ip4": "147.185.221.29",
+          "static_ip6": "2602:fbaf:0:1::1d",
+          "tunnel_ip": "2602:fbaf:0:1::1d"
         },
         "status": "allocated"
       },
-      "created_at": "2025-03-15T03:20:11.415116Z",
+      "created_at": "2025-07-02T21:54:25.063992Z",
       "disabled_reason": null,
       "domain": null,
       "expire_notice": null,
       "firewall_id": null,
-      "id": "d27907d3-555b-4e6b-85e4-a447e8d63a37",
+      "id": "4e423574-640d-48d3-862f-166559bbbc51",
       "name": "Minecraft Java",
       "origin": {
         "data": {
-          "agent_id": "d4dca281-1412-4cb8-8f64-682e90ac20d8",
-          "agent_name": "from-key-5298",
+          "agent_id": "16672cd2-d7e3-4e28-b2d0-1ce7723cc64d",
+          "agent_name": "from-key-5c58",
           "local_ip": "127.0.0.1",
           "local_port": 25565
         },
