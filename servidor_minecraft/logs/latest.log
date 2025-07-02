@@ -440,3 +440,20 @@
 [02Jul2025 22:44:32.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Foxer_nightmare has made the advancement [The Parrots and the Bats]
 [02Jul2025 22:45:59.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Foxer_nightmare has made the advancement [Stone Age]
 [02Jul2025 22:46:39.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Foxer_nightmare has made the advancement [Getting an Upgrade]
+[02Jul2025 22:57:27.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Foxer_nightmare has made the advancement [Monster Hunter]
+[02Jul2025 23:09:16.013] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Foxer_nightmare) moved wrongly! 0.49876866675799647
+[02Jul2025 23:09:16.063] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Foxer_nightmare) moved wrongly! 0.763321282879815
+[02Jul2025 23:09:16.112] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Foxer_nightmare) moved wrongly! 1.0371942964143273
+[02Jul2025 23:18:49.717] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Foxer_nightmare lost connection: Disconnected
+[02Jul2025 23:18:49.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Foxer_nightmare left the game
+[02Jul2025 23:19:11.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[02Jul2025 23:19:11.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[02Jul2025 23:19:11.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[02Jul2025 23:19:11.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[02Jul2025 23:19:12.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[02Jul2025 23:19:13.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[02Jul2025 23:19:13.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[02Jul2025 23:19:13.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[02Jul2025 23:19:13.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[02Jul2025 23:19:13.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[02Jul2025 23:19:13.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
