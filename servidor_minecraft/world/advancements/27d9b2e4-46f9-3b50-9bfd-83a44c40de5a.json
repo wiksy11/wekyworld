@@ -7,6 +7,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:mushroom_fields": "2025-07-03 16:19:35 +0000",
       "minecraft:taiga": "2025-07-02 22:38:48 +0000",
       "minecraft:deep_ocean": "2025-07-02 23:11:16 +0000",
       "minecraft:sunflower_plains": "2025-07-02 22:59:38 +0000",
@@ -27,6 +28,7 @@
       "minecraft:cold_ocean": "2025-07-02 23:18:17 +0000",
       "minecraft:forest": "2025-07-02 22:40:20 +0000",
       "minecraft:deep_cold_ocean": "2025-07-03 13:09:20 +0000",
+      "minecraft:frozen_ocean": "2025-07-03 16:23:56 +0000",
       "minecraft:desert": "2025-07-02 22:18:58 +0000",
       "minecraft:ocean": "2025-07-02 23:13:20 +0000",
       "minecraft:jungle": "2025-07-03 13:15:12 +0000",
@@ -167,6 +169,12 @@
     },
     "done": true
   },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-07-03 13:30:18 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/misc/family_tree": {
     "criteria": {
       "has_item": "2025-07-03 13:31:41 +0000"
@@ -176,12 +184,6 @@
   "mca:recipes/misc/bouquet": {
     "criteria": {
       "has_item": "2025-07-03 14:30:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/form_obsidian": {
-    "criteria": {
-      "obsidian": "2025-07-03 13:30:18 +0000"
     },
     "done": true
   },

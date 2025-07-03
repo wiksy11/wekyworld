@@ -1,1 +1,20 @@
-[]
+[
+  {
+    "uuid": "27d9b2e4-46f9-3b50-9bfd-83a44c40de5a",
+    "name": "Foxer_nightmare",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "2b6d922b-bebc-3392-97f0-57d4c0042954",
+    "name": "penetamble",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "361c438b-6fef-394a-8cb1-b3f0b067d9d9",
+    "name": "wiksy",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]

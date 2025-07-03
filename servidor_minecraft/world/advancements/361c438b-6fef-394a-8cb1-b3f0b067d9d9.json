@@ -1,0 +1,42 @@
+{
+  "mca:root": {
+    "criteria": {
+      "village_desert": "2025-07-03 16:13:38 +0000"
+    },
+    "done": true
+  },
+  "create:root": {
+    "criteria": {
+      "0": "2025-07-03 16:13:38 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/building_blocks/headstones": {
+    "criteria": {
+      "has_the_slanted_recipe": "2025-07-03 16:08:51 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/bouquet": {
+    "criteria": {
+      "has_item": "2025-07-03 16:20:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:bamboo_jungle": "2025-07-03 16:14:40 +0000",
+      "minecraft:wooded_badlands": "2025-07-03 16:10:10 +0000",
+      "minecraft:beach": "2025-07-03 16:17:13 +0000",
+      "minecraft:sparse_jungle": "2025-07-03 16:17:46 +0000",
+      "minecraft:river": "2025-07-03 16:10:41 +0000",
+      "minecraft:stony_shore": "2025-07-03 16:09:57 +0000",
+      "minecraft:desert": "2025-07-03 16:08:52 +0000",
+      "minecraft:jungle": "2025-07-03 16:09:47 +0000",
+      "minecraft:savanna": "2025-07-03 16:21:35 +0000",
+      "minecraft:plains": "2025-07-03 16:18:34 +0000"
+    },
+    "done": false
+  },
+  "DataVersion": 3465
+}
